@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jasakawandigital/gold/issues"
   },
-  "homepage": "https://github.com/jasakawandigital/gold#readme"
+  "homepage": "https://github.com/jasakawandigital/gold#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
